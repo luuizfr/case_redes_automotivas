@@ -135,6 +135,6 @@ Com 11 lojas e Índice HHI de 3.223, está entre as cinco cidades mais concentra
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/case_redes_automotivas.git
+   git clone https://github.com/luuizfr/case_redes_automotivas.git
    cd case_redes_automotivas
    ```
